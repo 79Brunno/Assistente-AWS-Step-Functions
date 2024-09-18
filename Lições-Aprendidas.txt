@@ -1,1 +1,11 @@
+Terminei o curso, assisti todas as aulas, li uma boa parte da documentação do Step Functions, e vou falar um pouco sobre as Funções básicas importantes que aprendi.
 
+1 - Criar uma conta da AWS: Eu ainda não tinha uma conta e precisei criar uma para ter acesso ao Step Functions e a todos os outros serviços disponíveis na AWS.
+2 - Entender o básico de State Machines: Passei a entender o que é uma State Machine e como ela funciona como um mapa para orientar o fluxo de trabalho, definindo os passos e as regras a serem seguidas.
+3 - Conhecer os tipos de estados: Agora entendo o que cada tipo de estado faz, como o Task que executa uma função, o Choice que toma decisões, o Parallel que permite executar tarefas simultâneas, e outros. Aprendi como cada um deles se encaixa na construção de um fluxo de trabalho eficiente.
+4 - Definir o fluxo de trabalho: Descobri um poquinho de como usar a Amazon States Language para escrever o código em JSON que define o passo a passo do meu fluxo de trabalho, determinando a ordem dos estados e como eles se conectam.
+5 - Criar uma State Machine: Aprendi a criar uma State Machine, utilizando o console do Step Functions. A interface visual facilita bastante a construção do fluxo de trabalho.
+6 - Iniciar uma execução: Depois de criar a State Machine, aprendi como iniciar a execução do fluxo de trabalho e acompanhar o andamento em tempo real.
+7 - Monitorar execuções: Descobri como usar as ferramentas de monitoramento para visualizar o histórico de execuções, identificar e corrigir erros, otimizando meus fluxos de trabalho.
+
+Não sabia nem o que é o AWS Step Functions antes de curso e estou impressionado com as possibilidades que ele cria. Ainda sou muito iniciante mas espero poder aprender muito mais sobre automações.
